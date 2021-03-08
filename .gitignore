@@ -1,0 +1,6 @@
+env
+server
+data
+*.pyc
+**/.DS_Store
+environment.sh
